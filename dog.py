@@ -17,4 +17,7 @@ class Dog(RescueAnimal):
         return self.breed
 
     def set_breed(self, breed):
+        while breed == "" or breed == None:
+            print("Breed cannot be empty. Please enter a valid breed.")
+            breed = input("Enter the dog's breed: ")
         self.breed = breed
