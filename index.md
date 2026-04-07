@@ -1,5 +1,3 @@
-# **Joshua McFall CS-499 ePortfolio**
-
 ## **Introduction**
 Hi! My name is Joshua McFall and I have been in the SNHU computer science for 3 years. This github page is to showcase my final project for CS-499 to graduate with a Bachelor's Degree.
 
